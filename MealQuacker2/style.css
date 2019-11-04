@@ -1,0 +1,22 @@
+h1{
+    color:red;
+    font-family: lucida;
+}
+
+h2{
+    color:red;
+    font-family: lucida;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+ul{
+    list-style: none;
+}
+
+p{
+    font-family: lucida;
+    color: black;
+}

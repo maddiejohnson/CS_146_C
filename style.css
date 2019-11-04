@@ -1,0 +1,23 @@
+p{
+    color: red;
+}
+
+h1{
+    color: blue;
+    background-color: yellow;
+}
+
+#helloworld{
+    color: purple;
+    background-color: aquamarine;
+}
+
+.buttonstyle{
+    background-color: fuchsia;
+    color: yellow;
+}
+
+.mySecondClass{
+    font-style: italic;
+    font-size: 42pt;
+}
